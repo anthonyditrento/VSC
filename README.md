@@ -14,5 +14,3 @@
     <h2>Próximos Jogos</h2>
     <p>Volte mais tarde para ver nossa programação!</p>
   </main>
-</body>
-</html>
